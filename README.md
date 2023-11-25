@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dswvgw6412)](https://solved.ac/dswvgw6412)
 <!--
 **Hwangyongjin/Hwangyongjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
