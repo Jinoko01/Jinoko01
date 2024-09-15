@@ -1,13 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=FE%20개발자%20황용진입니다.&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2a2b)
 
-## I am  
-
-- 사용자의 입장에서 편하고 직관적이며, 좋은 UX를 고민하는 프론트엔드 개발자입니다.  
-- 다른 개발자들과 기술에 대해 토의하고 교류하는 것을 매우 좋아합니다. 
-- 많은 개발자들에게 좋은 영향력을 끼치는 Engineering Manager로 성장하는 것이 미래의 개발자로서의 목표입니다.  
-- 블로그에 깊은 고민과 철학을 담아내고자 노력합니다.
+> ### "더 많은 기술을 배울수록 자신이 아는 것이 별것 아니라는 것을 알게 된다." <br />
+> "개발자 속담"
   
-## Tech Stacks
+## 💻 Tech Stacks
 
 ### FE
 |Javascript|Typescript|React.js|Next.js|Jest|
@@ -19,15 +15,35 @@
 |:-:|:-:|:-:|:-:|:-:|
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="80" height="80" /><br /> | <img src="https://ih1.redbubble.net/image.1084299841.8155/tst,small,507x507-pad,600x600,f8f8f8.jpg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" /><br /> |
 
-## Activities
+## 🗓️ Activities
 
-- 
+- 멋쟁이사자처럼 11기 금오공대 Front-end 아기사자
+  - `2023.03~2023.12`
+- 멋쟁이사자처럼 12기 금오공대 대표 및 Front-end 운영진
+  - `2024.03~2024.12`
+- 국립금오공과대학교 IT 세미나 ‘야밤의금오톡’ Front-end Developer
+  - `2024.03~`
+- 국립금오공과대학교 IT 스터디 '야밤의테크톡' Front-end 멘토
+  - `2024.05~`
+- 국립금오공과대학교 차세대컴퓨터네트워킹 연구실
+  - `2023.12~`
+- 네이버커넥트재단 부스트캠프 9기
+  - `2024.07~2024.08`
 
-## Projects
+## 📕 Projects
 
-- 
+- SimFarm: 동물농장 웹 게임
+  - Stacks: `React.js` `Styled-Component` `Unity`
+- 냉장Goat: 간편 냉장고 관리 플랫폼, 레시피 추천
+  - Stacks: `React.js` `Styled-Component`
+- Neighbot-Chat: 위치기반 채팅 플랫폼
+  - Stacks: `React.js` `css-module` `leaflet`
+- Bammboo-Forest: AI 심리상담 챗봇
+  - Stacks: `React.js` `css-module` `webSocket` `tanstack-query`
+- 야밤의금오톡 기술블로그
+  - Stacks: `Next.js` `scss-module` `tanstack-query`
 
-## Links & Contacts
+## ☎️ Blog & Contacts
  
 - Blog : https://okojin.tistory.com/
 - Mail : dswvgw1234@gmail.com  
