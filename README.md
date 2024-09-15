@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=FE%20개발자%20황용진입니다.&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2a2b)
 
 > ### "더 많은 기술을 배울수록 자신이 아는 것이 별것 아니라는 것을 알게 된다." <br />
-> "개발자 속담"
+> \- 개발자 속담
   
 ## 💻 Tech Stacks
 
@@ -42,6 +42,8 @@
   - Stacks: `React.js` `css-module` `webSocket` `tanstack-query`
 - 야밤의금오톡 기술블로그
   - Stacks: `Next.js` `scss-module` `tanstack-query`
+- Chirp-aid: 보육원 기부 플랫폼
+  - Stacks: `Nest.js` `firebase` `Docker` `AWS`
 
 ## ☎️ Blog & Contacts
  
