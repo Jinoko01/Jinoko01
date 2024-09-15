@@ -6,14 +6,14 @@
 ## 💻 Tech Stacks
 
 ### FE
-|Javascript|Typescript|React.js|Next.js|Jest|
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://www.soaple.io/static/post/8/cover-image.png" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="80" height="80" /><br /> |
+|Javascript|Typescript|React.js|Next.js|Jest|Redux|Zustand|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://www.soaple.io/static/post/8/cover-image.png" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUivaLNXilLC9jOyzm5OeTRYhgwH8tmI0uBQ&s" alt="icon" width="80" height="80" /><br /> |
 
 ### BE
-|Express.js|Nest.js|MySQL|Docker|AWS|
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="80" height="80" /><br /> | <img src="https://ih1.redbubble.net/image.1084299841.8155/tst,small,507x507-pad,600x600,f8f8f8.jpg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" /><br /> |
+|Express.js|Nest.js|MySQL|MongoDB|Docker|AWS|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="80" height="80" /><br /> | <img src="https://ih1.redbubble.net/image.1084299841.8155/tst,small,507x507-pad,600x600,f8f8f8.jpg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" /><br /> |
 
 ## 🗓️ Activities
 
