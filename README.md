@@ -13,7 +13,7 @@
 ### BE
 |Express.js|Nest.js|MySQL|MongoDB|Docker|AWS|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="80" height="80" /><br /> | <img src="https://ih1.redbubble.net/image.1084299841.8155/tst,small,507x507-pad,600x600,f8f8f8.jpg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" /><br /> |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="80" height="80" /><br /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" /><br /> |
 
 ## 🗓️ Activities
 
