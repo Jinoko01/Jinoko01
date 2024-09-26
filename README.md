@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=FE%20개발자%20황용진입니다.&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2a2b)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=FE%20개발자%20황용진입니다.&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=4cbd49)
 
 > ### "더 많은 기술을 배울수록 자신이 아는 것이 별것 아니라는 것을 알게 된다." <br />
 > \- 개발자 속담
@@ -8,7 +8,7 @@
 ### FE
 |Javascript|Typescript|React.js|Next.js|Jest|Redux|Zustand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://www.soaple.io/static/post/8/cover-image.png" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUivaLNXilLC9jOyzm5OeTRYhgwH8tmI0uBQ&s" alt="icon" width="80" height="80" /><br /> |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://www.soaple.io/static/post/8/cover-image.png" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://i.ibb.co/jznCJSf/Kakao-Talk-20240926-115635828.png" alt="icon" width="80" height="80" /><br /> |
 
 ### BE
 |Express.js|Nest.js|MySQL|MongoDB|Docker|AWS|
