@@ -43,7 +43,7 @@
 - 야밤의금오톡 기술블로그
   - Stacks: `Next.js` `scss-module` `tanstack-query`
 - Chirp-aid: 보육원 기부 플랫폼
-  - Stacks: `Nest.js` `firebase` `Docker` `AWS`
+  - Stacks: `Nest.js` `firebase` `socket.io` `Docker` `AWS`
 
 ## ☎️ Blog & Contacts
  
