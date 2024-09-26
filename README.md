@@ -8,7 +8,7 @@
 ### FE
 |Javascript|Typescript|React.js|Next.js|Jest|Redux|Zustand|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://www.soaple.io/static/post/8/cover-image.png" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://i.ibb.co/jznCJSf/Kakao-Talk-20240926-115635828.png" alt="icon" width="80" height="80" /><br /> |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://www.soaple.io/static/post/8/cover-image.png" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://i.ibb.co/MPv0wqw/Kakao-Talk-20240926-115635828-removebg-preview.png" alt="icon" width="80" height="80" /><br /> |
 
 ### BE
 |Express.js|Nest.js|MySQL|MongoDB|Docker|AWS|
