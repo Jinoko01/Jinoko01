@@ -2,31 +2,6 @@
 
 > ### "더 많은 기술을 배울수록 자신이 아는 것이 별것 아니라는 것을 알게 된다." <br />
 > \- 개발자 속담
-  
-## 💻 Tech Stacks
-
-### FE
-|Javascript|Typescript|React.js|Next.js|Redux|Zustand|Jest|Storybook|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://www.soaple.io/static/post/8/cover-image.png" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://i.ibb.co/MPv0wqw/Kakao-Talk-20240926-115635828-removebg-preview.png" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="80" height="80" /><br /> |
-
-### BE
-|Express.js|Nest.js|MySQL|MongoDB|
-|:-:|:-:|:-:|:-:|
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="80" height="80" /><br /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="icon" width="80" height="80" /><br /> | 
-
-## 🗓️ Activities
-
-- 멋쟁이사자처럼 12기 금오공대 Front-end 운영진 & 대표
-  - `2024.03~2024.12`
-- 네이버커넥트재단 부스트캠프 9기 챌린지 과정
-  - `2024.07~2024.08`
-- 국립금오공과대학교 IT 스터디 '야밤의테크톡' Front-end 멘토
-  - `2024.05~2024.08`
-- 국립금오공과대학교 차세대컴퓨터네트워킹 연구실
-  - `2023.12~`
-- 멋쟁이사자처럼 11기 금오공대 Front-end 아기사자
-  - `2023.03~2023.12`
 
 ## 📕 Projects
 
@@ -48,11 +23,32 @@
 - SimFarm: 동물농장 웹 게임
   - Stacks: `React.js` `Styled-Component` `Unity`
   - Contribute: 메인 페이지 동물 관리 기능 구현, 상정 물품 구매 기능 구현, 게임 진행에 따른 컨테스트 진행 시 엔딩 분기처리
+  
+## 💻 Tech Stacks
 
-## ☎️ Blog & Contacts
- 
-- Blog : https://okojin.tistory.com/
-- Mail : dswvgw1234@gmail.com  
+### FE
+|Javascript|Typescript|React.js|Next.js|Redux|Zustand|Jest|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" /><br /> | <img src="https://www.soaple.io/static/post/8/cover-image.png" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="80" height="80" /><br /> | <img src="https://i.ibb.co/MPv0wqw/Kakao-Talk-20240926-115635828-removebg-preview.png" alt="icon" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="80" height="80" /><br /> |
+
+### BE
+|Express.js|Nest.js|MySQL|
+|:-:|:-:|:-:|
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="80" height="80" /><br /> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="80" height="80" /><br /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /><br /> |
+
+## 🗓️ Activities
+
+- 멋쟁이사자처럼 12기 금오공대 Front-end 운영진 & 대표
+  - `2024.03~2024.12`
+- 네이버커넥트재단 부스트캠프 9기 챌린지 과정
+  - `2024.07~2024.08`
+- 국립금오공과대학교 IT 스터디 '야밤의테크톡' Front-end 멘토
+  - `2024.05~2024.08`
+- 국립금오공과대학교 차세대컴퓨터네트워킹 연구실
+  - `2023.12~`
+- 멋쟁이사자처럼 11기 금오공대 Front-end 아기사자
+  - `2023.03~2023.12`
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2aAA)
