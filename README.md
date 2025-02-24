@@ -9,7 +9,7 @@
   - Stacks: `Next.js` `scss-module` `tanstack-query`
   - Contribute: react-hook-form을 활용한 모집글 작성 폼 구현, zod 라이브러리를 통한 검증 시스템 구현, Lazy Loading을 활용한 게시물 로딩 성능 향상
 - [Chirp-aid: 보육원 기부 플랫폼](https://github.com/Chirp-Aid/chirp-aid-server)
-  - Stacks: `Nest.js` `firebase` `socket.io` `Docker` `AWS`
+  - Stacks: `Nest.js` `firebase` `socket.io` `github-action` `Docker` `AWS`
   - Contribute: Socket.io 실시간 채팅 기능 구현, 관리자 기능 CRUD, github Action을 활용한 CI/CD 구축
 - [Bamboo-Forest: AI 심리상담 챗봇](https://github.com/team-jung-ppo/bamboo-forest_frontend)
   - Stacks: `React.js` `css-module` `webSocket` `tanstack-query`, `toss-payment`
