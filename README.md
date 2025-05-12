@@ -9,7 +9,7 @@
   - Stacks: `Next.js` `TypeScript` `scss-module` `tanstack-query` `tip-tap` `RTMP` `HLS`
   - Contribute: react-hook-form을 활용한 동적 폼 구현, Lazy Loading을 활용한 게시물 로딩 성능 향상, rtmp-hls 기반 세미나 스트리밍 서비스 구현
 - [외국인 대상 다국어 지원 구직 플랫폼](https://github.com/th-D138/JobForeigner-FrontEnd)
-  - Stack: `React.js` `TypeScript` `scss-module` `tanstack-query` `react-i18n`
+  - Stacks: `React.js` `TypeScript` `scss-module` `tanstack-query` `react-i18n`
   - Contribute: react-hook-form 기반 Multi step form, 이력서 작성 폼 구현, axios 기반 api 간편 호출기 구현
 - [Bamboo-Forest: AI 심리상담 챗봇](https://github.com/team-jung-ppo/bamboo-forest_frontend)
   - Stacks: `React.js` `css-module` `webSocket` `tanstack-query`, `toss-payment`
