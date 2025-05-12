@@ -5,21 +5,15 @@
 
 ## 📕 Projects
 
-- [야밤의금오톡 기술블로그](https://github.com/Kumoh-talk/kumoh-talk-Frontend) (개발 진행중)
-  - Stacks: `Next.js` `scss-module` `tanstack-query`
-  - Contribute: react-hook-form을 활용한 모집글 작성 폼 구현, zod 라이브러리를 통한 검증 시스템 구현, Lazy Loading을 활용한 게시물 로딩 성능 향상
-- [Chirp-aid: 보육원 기부 플랫폼](https://github.com/Chirp-Aid/chirp-aid-server)
-  - Stacks: `Nest.js` `firebase` `socket.io` `github-action` `Docker` `AWS`
-  - Contribute: Socket.io 실시간 채팅 기능 구현, 관리자 기능 CRUD, github Action을 활용한 CI/CD 구축
+- [마크다운 기반 IT 관련 기술블로그 및 커뮤니티, RTMP-HLS 기반 기술 세미나 스트리밍 플랫폼](https://github.com/Kumoh-talk/kumoh-talk-Frontend)
+  - Stacks: `Next.js` `TypeScript` `scss-module` `tanstack-query` `tip-tap` `RTMP` `HLS`
+  - Contribute: react-hook-form을 활용한 동적 폼 구현, Lazy Loading을 활용한 게시물 로딩 성능 향상, rtmp-hls 기반 세미나 스트리밍 서비스 구현
+- [외국인 대상 다국어 지원 구직 플랫폼](https://github.com/th-D138/JobForeigner-FrontEnd)
+  - Stack: `React.js` `TypeScript` `scss-module` `tanstack-query` `react-i18n`
+  - Contribute: react-hook-form 기반 Multi step form, 이력서 작성 폼 구현, axios 기반 api 간편 호출기 구현
 - [Bamboo-Forest: AI 심리상담 챗봇](https://github.com/team-jung-ppo/bamboo-forest_frontend)
   - Stacks: `React.js` `css-module` `webSocket` `tanstack-query`, `toss-payment`
   - Contribute: WebSocket을 활용한 실시간 채팅기능, toss-payment API를 활용한 배터리 결제 시스템 구현, 카카오 및 깃허브 로그인 구현
-- [Neighbot-Chat: 위치기반 실시간 리뷰 플랫폼](https://github.com/neighbor-chat/NeighborChat-FE)
-  - Stacks: `React.js` `css-module` `leaflet`
-  - Contribute: 지도 API를 활용한 커뮤니티 페이지 구현, 메시지 등록 시 지도에 마커 등록 기능 구현, Polling 방식을 통한 마커 실시간 업데이트 기능 구현, 반경 내 메시지 전체 조회 기능 구현
-- [SimFarm: 동물농장 웹 게임](https://github.com/Jinoko01/SimFarm)
-  - Stacks: `React.js` `Styled-Component` `Unity`
-  - Contribute: 메인 페이지 동물 관리 기능 구현, 상정 물품 구매 기능 구현, 게임 진행에 따른 컨테스트 진행 시 엔딩 분기처리
   
 ## 💻 Tech Stacks
 
