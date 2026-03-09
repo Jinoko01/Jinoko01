@@ -39,4 +39,6 @@
 
 <br />
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dswvgw6412)](https://solved.ac/dswvgw6412/)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=false&textBg=false&animation=fadeIn&fontColor=1a2aAA)
